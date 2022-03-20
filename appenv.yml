@@ -1,4 +1,4 @@
-name: forecastappenv
+name: appenv
 channels:
   - Microsoft
   - conda-forge
@@ -230,4 +230,4 @@ dependencies:
     - threadpoolctl==3.1.0
     - tzdata==2021.5
     - yfinance==0.1.70
-prefix: C:\Users\jteel\anaconda3\envs\forecastappenv
+prefix: C:\Users\jteel\anaconda3\envs\appenv
