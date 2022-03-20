@@ -7,7 +7,6 @@ from django.views.generic import CreateView, DetailView, ListView, UpdateView
 from django.views.generic.edit import DeleteView
 from django.contrib.auth.mixins import LoginRequiredMixin
 
-
 from .forms import NotesForm
 from .models import Notes
 
